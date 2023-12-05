@@ -91,6 +91,8 @@ h4 {
 .btn-row .marg {
 	margin-top: 50px;
 	margin-bottom: 25px;
+	text-align: center;
+	text-decoration: solid;
 }
 
 /*---------- Top bar starts -----------*/
