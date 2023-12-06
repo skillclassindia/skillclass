@@ -275,10 +275,6 @@ video {
 
 	/*---------- Topics section start ----------*/
 
-	.container .subheading2{
-		text-align: center;
-	}
-
 	.topics .container .para-line {
 		text-align: center;
 		max-width: 80%;
