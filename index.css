@@ -212,6 +212,7 @@ video {
 	.heading {
 		font-size: 2.4rem;
 		text-align: center;
+		margin-bottom: 5px;
 	}
 
 	/*---------- Top bar starts -----------*/
