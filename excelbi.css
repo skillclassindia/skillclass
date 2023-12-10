@@ -51,6 +51,8 @@ img {
 
 h4 {
 	text-decoration: line-through;
+	text-decoration-color: red;
+	text-decoration-thickness: 2.5px;
 	text-size-adjust: 10px;
 	width: auto;
 }
@@ -238,10 +240,6 @@ iframe {
     .modal-content {
         width: 100%;
     }
-}
-
-.btn topics-btn .sz {
-	margin-top: 50px;
 }
 
 /*---------- Top bar ends -----------*/
